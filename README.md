@@ -1,0 +1,1 @@
+Este repositorio es resultado de la práctica de resolución de ejercicios en C de la asignatura de Informática Aplicada de la Universidad Tecnológica Nacional - Instituto Nacional Superior del Profesorado Técnicco (INSPT-UTN).
